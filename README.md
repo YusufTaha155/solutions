@@ -10,7 +10,6 @@ Calculates the highest and lowest step counts.
 Calculates the average daily step count.
 Sorts the step counts in descending order.
 
-# =======================================================================================
 
 # Task 2
 
